@@ -15,6 +15,13 @@ Me foi passado um template para que eu pudesse reproduzir uma aplicação simula
 
 {4} - Usar o comando npm run dev;
 
+### !! AVISO !!
+
+Se houver algum problema com react-toastfy use:
+npm i --save-dev @types/react-toastify
+
+E depois use o comando 'ctrl + shift + p' e digite Reload Window
+
 ## Problemas enfrentados
 - (1) Tenho conhecimentos básicos em React, mas ainda assim eu gostaria de fazer uma aplicação com SPA para ser mais performática e mais funcional.
 - (2) Tive que equilibrar o tempo entre o desafio, assuntos pessoais e faculdade.
